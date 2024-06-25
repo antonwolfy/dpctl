@@ -12,6 +12,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Fixed
 
+
 ## [0.17.0] - May. XX, 2024
 
 This release features updated documentation web-page https://intelpython.github.io/dpctl/latest/index.html, adds cumulative reductions,
